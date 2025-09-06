@@ -1,16 +1,27 @@
-## Hi there 👋
+# Komang Sidhi Artha
 
-<!--
-**komangsidhiartha/komangsidhiartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Head of Engineering | Technical Lead | Senior Mobile & Backend Developer
 
-Here are some ideas to get you started:
+Hello! I'm a results-driven engineering leader with over 14 years of experience architecting and building high-impact applications. I specialize in Go, Mobile Development (Kotlin/Swift/Flutter), and leading cross-functional teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Projects
+
+Here are a few projects that showcase my skills and passion for building quality software:
+
+* **[Android Libs](https://github.com/komangsidhiartha/android-libs)**: A foundational Android library I architected and led, used in production by major apps like Jakpat & Mamikos.
+* **[Simple Deploy Script](https://github.com/komangsidhiartha/simple-deploy-script)**: A user-friendly Bash CLI I created to demonstrate best practices in developer tooling and automation.
+
+---
+
+### Professional Contributions
+
+My day-to-day professional contributions and collaborative work at **PT. Gongsin Internasional Transindo** can be found on my work-specific GitHub profile.
+
+👉 **View my work profile: [@sidhijakpat](https://github.com/sidhijakpat)**
+
+---
+
+* 📫 How to reach me: sidhi.artha@gmail.com
+* 💼 LinkedIn: [linkedin.com/in/sidhi-artha-1987bb40](https://linkedin.com/in/sidhi-artha-1987bb40/)
