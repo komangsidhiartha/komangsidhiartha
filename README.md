@@ -11,6 +11,7 @@ Hello! I'm a results-driven engineering leader with over 14 years of experience 
 Here are a few projects that showcase my skills and passion for building quality software:
 
 * **[Android Libs](https://github.com/komangsidhiartha/android-libs)**: A foundational Android library I architected and led, used in production by major apps like Jakpat & Mamikos.
+* **[Go Clean Architecture](https://github.com/komangsidhiartha/go-learning-clean-arch)**: An exploration of Clean Architecture in Go, demonstrating best practices for building scalable and maintainable backend services.
 * **[Simple Deploy Script](https://github.com/komangsidhiartha/simple-deploy-script)**: A user-friendly Bash CLI I created to demonstrate best practices in developer tooling and automation.
 
 ---
