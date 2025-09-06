@@ -16,11 +16,11 @@ Here are a few projects that showcase my skills and passion for building quality
 
 ---
 
-### Professional Contributions
+### Professional Contributions & Public Samples
 
-My day-to-day professional contributions and collaborative work at **PT. Gongsin Internasional Transindo** can be found on my work-specific GitHub profile.
+The core proprietary projects I lead at **PT. Gongsin Internasional Transindo** are hosted on a private, on-premise GitLab server.
 
-👉 **View my work profile: [@sidhijakpat](https://github.com/sidhijakpat)**
+My work-specific GitHub profile, [@sidhijakpat](https://github.com/sidhijakpat), serves as a public showcase for open-source components, technical samples, and public-facing templates related to my team's engineering efforts.
 
 ---
 
