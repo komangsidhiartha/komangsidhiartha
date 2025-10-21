@@ -1,8 +1,8 @@
 # Komang Sidhi Artha
 
-### Head of Engineering | Technical Lead | Senior Mobile & Backend Developer
+### Senior Architect (Mobile & Full Stack) | Go, Flutter, React & API Design
 
-Hello! I'm a results-driven engineering leader with over 14 years of experience architecting and building high-impact applications. I specialize in Go, Mobile Development (Kotlin/Swift/Flutter/React Native), and leading cross-functional teams.
+Hello! I'm a results-driven Senior Architect with over 14 years of experience designing and building high-impact, full-stack applications. I specialize in architecting scalable systems, from backend services and API design in Go to responsive web frontends using React.js and Next.js, and comprehensive mobile solutions using Kotlin, Swift, Flutter, and React Native.
 
 ---
 
