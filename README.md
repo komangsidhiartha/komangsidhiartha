@@ -1,6 +1,6 @@
 # Komang Sidhi Artha
 
-### Senior Architect (Mobile & Full Stack) | Go, Kotlin, Swift, Flutter, React Native, React, Next.js & API Design
+### Senior Architect (Mobile & Full Stack) | Kotlin, Swift, Flutter, React Native, React, Next.js, Go, & API Design
 
 Hello! I'm a results-driven Senior Architect with over 14 years of experience designing and building high-impact, full-stack applications. I specialize in architecting scalable systems, from backend services and API design in Go to responsive web frontends using React.js and Next.js, and comprehensive mobile solutions using Kotlin, Swift, Flutter, and React Native.
 
